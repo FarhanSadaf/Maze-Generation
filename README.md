@@ -1,5 +1,6 @@
 # Maze Generation
 With recursive backtracker algorithm. 
+
 Implemented using PyGame module in python.
 
 ## Recursive backtracker
